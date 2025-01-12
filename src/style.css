@@ -68,7 +68,7 @@ main {
   font-size: 38px;
   line-height: 48px;
   font-weight: 700;
-  color: #fa7ef0;
+  color: #d40087;
 }
 
 .weather-app-details {
@@ -79,7 +79,7 @@ main {
 }
 
 .weather-app-details strong {
-  color: #fa7ef0;
+  color: #d40087;
   font-weight: 500;
 }
 
